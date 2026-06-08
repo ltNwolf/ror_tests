@@ -1,0 +1,3 @@
+[submodule "gems/lm_pdf"]
+	path = gems/lm_pdf
+	url = git@github.com:ltNwolf/lm_pdf.git
